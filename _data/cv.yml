@@ -1,0 +1,189 @@
+cv:
+  name: Faruk Tayyip Yalcin
+  label: PhD Student in Social Psychology
+  email: fty5005@psu.edu
+  location: State College, PA
+  image: ""
+  summary: PhD student in social psychology at Penn State, interested in theory building and testing in moral psychology, and metascience.
+
+  social_networks:
+    - network: LinkedIn
+      username: faruk-tayyip-yalçın-17661017a
+    - network: GitHub
+      username: faruktayyipyalcin
+    - network: X
+      username: faruktyalcin
+
+  sections:
+    Education:
+      - institution: Penn State University
+        location: State College, PA
+        url: https://psych.la.psu.edu/
+        area: "Social Psychology (Minor: Social Data Analytics)"
+        studyType: PhD
+        start_date: 2023
+        end_date: "Present"
+        highlights:
+          - "Empathy and Moral Psychology Lab — PI: Dr. C. Daryl Cameron"
+          - "Teaching Assistantships: Introductory Psychology, Intimate Relationships, Human Emotions"
+      - institution: Sabanci University
+        location: Istanbul, Türkiye
+        area: Social Psychology
+        studyType: MSc
+        start_date: 2021
+        end_date: 2023
+      - institution: Bilkent University
+        location: Ankara, Türkiye
+        area: Psychology
+        studyType: BA
+        start_date: 2017
+        end_date: 2021
+
+    Publications:
+      - title: "Transcutaneous Vagus Nerve Stimulation Effects on Flavor-Evoked Electroencephalogram and Eye-Blink Rate"
+        authors:
+          - "Albayrak, S."
+          - "Aydin, B."
+          - "Özen, G."
+          - "Yalcin, F. T."
+          - "Balık, M."
+          - "Yanık, H."
+          - "Urgen, B. A."
+          - "Veldhuizen, M. G."
+        publisher: Brain and Behavior
+        releaseDate: 2025
+        url: https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.70355
+      - title: "Looking for your cross-group friends after the breakout? Children's intergroup contact behaviours before and after the onset of COVID-19"
+        authors:
+          - "Bagci, S. C."
+          - "Yalcin, F. T."
+          - "Turnuklu, A."
+          - "Vezzali, L."
+          - "Tercan, M."
+          - "Yilmaz, A. D."
+        publisher: "British Journal of Social Psychology, 62(2), 1036–1055"
+        releaseDate: 2023
+        url: https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjso.12616
+      - title: "Outrage is motivated and nuanced (Preprint)"
+        authors:
+          - "Yalcin, F. T."
+          - "Cameron, C. D."
+        publisher: PsyArXiv
+        releaseDate: 2025
+        url: https://osf.io/preprints/psyarxiv/xcmta_v1
+
+    Presentations:
+      - title: "Is Psychology Growing Too Big, Too Fast? The Pace of Publication in Psychology"
+        authors:
+          - "Yalcin, F. T."
+          - "Cameron, C. D."
+        publisher: "Association for Psychological Science Annual Convention, Barcelona, Spain"
+        releaseDate: 2026
+      - title: "Is Psychology Growing Too Big, Too Fast? The Pace of Publication in Psychology"
+        authors:
+          - "Yalcin, F. T."
+          - "Cameron, C. D."
+        publisher: "Society for the Improvement of Psychological Science (Virtual)"
+        releaseDate: 2026
+      - title: "Does outrage close or open minds? Moral outrage and information-seeking"
+        authors:
+          - "Yalcin, F. T."
+          - "Cameron, C. D."
+        publisher: "Society for Personality and Social Psychology Annual Convention, Chicago, IL"
+        releaseDate: 2026
+      - title: "Do subjective harm perceptions align with the dyadic model?"
+        authors:
+          - "Yalcin, F. T."
+          - "Cameron, C. D."
+        publisher: "SPSP Moral Psychology Preconference, Chicago, IL"
+        releaseDate: 2026
+      - title: "Is Empathy Biased or Does It Prevent Bias?"
+        authors:
+          - "Yalcin, F. T."
+          - "Bagci, S. C."
+        publisher: International Convention of Psychological Science
+        releaseDate: 2023
+      - title: "Did the Lockdowns Bring Turkish Students Closer to Their Syrian Peers? (4th Turkish Social Psychology Congress)"
+        authors:
+          - "Yalcin, F. T."
+          - "Yilmaz, A. D."
+          - "Turnuklu, A."
+          - "Vezzali, L."
+          - "Tercan, M."
+          - "Bagci, S. C."
+        publisher: 4th Turkish Social Psychology Congress
+        releaseDate: 2022
+      - title: "Neural response to flavor measured during a sip-and-swallow protocol with EEG"
+        authors:
+          - "Albayrak, S."
+          - "Aydın, B."
+          - "Yalcin, F. T."
+          - "Balık, M."
+          - "Urgen, B. A."
+          - "Veldhuizen, M."
+        publisher: European Chemoreception Research Organization Conference XXXI
+        releaseDate: 2021
+      - title: "We Are All the Same, But Different: Comparing Approaches for Reducing Parochial Empathy for Political Outgroups"
+        authors:
+          - "Loustau, T."
+          - "Yalcin, F. T."
+        publisher: "Center for the Science of Moral Understanding Summer Program Symposium (Virtual)"
+        releaseDate: 2021
+      - title: "Bottom-up perception of biological motion is influenced by perceptual load and eccentricity"
+        authors:
+          - "Rezaki, A. D."
+          - "Tunca, M. B."
+          - "Nizamoglu, H."
+          - "Tuglacı, E."
+          - "Ture, S."
+          - "Yalcin, F. T."
+          - "Urgen, B. A."
+        publisher: 43rd European Conference on Visual Perception
+        releaseDate: 2021
+      - title: "Visual Processing of Biological Motion in the Periphery under Attentional Load"
+        authors:
+          - "Tunca, M. B."
+          - "Nizamoglu, H."
+          - "Rezaki, A. D."
+          - "Tuglacı, E."
+          - "Ture, S."
+          - "Yalcin, F. T."
+          - "Urgen, B. A."
+        publisher: "Proceedings of the Annual Meeting of the Cognitive Science Society, 43(43)"
+        releaseDate: 2021
+
+    Awards:
+      - title: C-SoDA Accelerator Award
+        date: 2025-12-01
+        awarder: Center for Social Data Analytics, Penn State
+        summary: "$1,500 for \"On the invariance of artificial morality: Using machine learning to map the AI moral domain\" (Co-Investigator, with Joshua D. Wenger and Zoe A. Baker)."
+      - title: Consortium on Moral Decision Making Seed Grant
+        date: 2025-04-01
+        awarder: Consortium on Moral Decision Making, Penn State
+        summary: "$900 for \"Does moral outrage open minds?\"; work presented at SPSP 2026 in Chicago, IL."
+      - title: Graduate Scholarship
+        date: 2022
+        awarder: Sabanci University / TÜBİTAK
+        summary: "Tuition and housing from Sabanci University with a monthly TÜBİTAK stipend (2021–2022)."
+      - title: Comprehensive Scholarship
+        date: 2021
+        awarder: Bilkent University
+        summary: "Full tuition and accommodation waiver plus a monthly stipend for ranking in the top 0.025% on the university entrance examination (2017–2021)."
+      - title: STAR Scholarship
+        date: 2021
+        awarder: TÜBİTAK
+        summary: "Awarded to promising undergraduate researchers; received while a research assistant at the National MR Research Center."
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "R, Python, MATLAB"
+      - name: Statistical Software
+        icon: fa-solid fa-chart-simple
+        keywords: "R, JASP, Jamovi, SPSS"
+
+    Languages:
+      - name: Turkish
+        summary: Native speaker
+      - name: English
+        summary: Fluent
