@@ -27,6 +27,6 @@ latest_posts:
   limit: 3
 ---
 
-I'm a rising fourth-year PhD student in social psychology at Penn State University, working in the Empathy and Moral Psychology Lab with <a href='https://emplab.la.psu.edu/](https://emplab.la.psu.edu/people/c-daryl-cameron-ph-d'>Daryl Cameron</a>. I'm interested in theory building and testing in moral psychology, and in metascience.
+I'm a rising fourth-year PhD student in social psychology at Penn State University, working in the Empathy and Moral Psychology Lab with <a href='https://emplab.la.psu.edu/people/c-daryl-cameron-ph-d'>Daryl Cameron</a>. I'm interested in theory building and testing in moral psychology, and in metascience.
 
 
