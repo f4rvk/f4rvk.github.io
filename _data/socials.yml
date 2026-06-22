@@ -1,12 +1,9 @@
-# Social links shown in the site footer and on the about page.
-# Rendered by the jekyll-socials plugin, in the order defined here.
-cv_pdf: /assets/pdf/FTYalcin_CV_Jun26.pdf # path to your CV PDF
+cv_pdf: /assets/pdf/FTYalcin_CV_Jun26.pdf
 email: fty5005@psu.edu
-rss_icon: false # set true to show the RSS feed icon
-scholar_userid: tzADb9oAAAAJ # Google Scholar ID
-orcid_id: 0009-0004-0660-067X # ORCID iD
-osf_id: yg6wh # OSF profile ID
-github_username: f4rvk # GitHub username
-linkedin_username: faruk-tayyip-yalçın-17661017a # LinkedIn vanity name
-x_username: faruktyalcin # X / Twitter handle
-bluesky_url: https://bsky.app/profile/farvk.bsky.social # full Bluesky profile URL
+scholar_userid: tzADb9oAAAAJ
+orcid_id: 0009-0004-0660-067X
+osf_id: yg6wh
+github_username: f4rvk
+linkedin_username: faruk-tayyip-yalçın-17661017a
+x_username: faruktyalcin
+bluesky_url: https://bsky.app/profile/farvk.bsky.social
