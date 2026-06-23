@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD Student in Social Psychology · <a href='https://emplab.la.psu.edu/'>Empathy &amp; Moral Psychology Lab</a>, Penn State
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true 
   more_info: >
