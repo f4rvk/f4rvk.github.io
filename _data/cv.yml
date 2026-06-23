@@ -25,7 +25,6 @@ cv:
         end_date: "Present"
         highlights:
           - "Empathy and Moral Psychology Lab — PI: Dr. C. Daryl Cameron"
-          - "Teaching Assistantships: Introductory Psychology, Intimate Relationships, Human Emotions"
       - institution: Sabanci University
         location: Istanbul, Türkiye
         area: Social Psychology
@@ -73,21 +72,27 @@ cv:
         url: https://osf.io/preprints/psyarxiv/xcmta_v1
 
     Presentations:
-      - bullet: "Yalcin, F. T., & Cameron, C. D. (2026). *Is Psychology Growing Too Big, Too Fast? The Pace of Publication in Psychology*. Association for Psychological Science Annual Convention, Barcelona, Spain."
-      - bullet: "Yalcin, F. T., & Cameron, C. D. (2026). *Is Psychology Growing Too Big, Too Fast? The Pace of Publication in Psychology*. Society for the Improvement of Psychological Science (Virtual)."
-      - bullet: "Yalcin, F. T., & Cameron, C. D. (2026). *Does outrage close or open minds? Moral outrage and information-seeking*. Society for Personality and Social Psychology Annual Convention, Chicago, IL."
-      - bullet: "Yalcin, F. T., & Cameron, C. D. (2026). *Do subjective harm perceptions align with the dyadic model?* Society for Personality and Social Psychology Moral Psychology Preconference, Chicago, IL."
-      - bullet: "Yalcin, F. T., & Bagci, S. C. (2023). *Is Empathy Biased or Does It Prevent Bias?* International Convention of Psychological Science."
-      - bullet: "Yalcin, F. T., Yilmaz, A. D., Turnuklu, A., Vezzali, L., Tercan, M., & Bagci, S. C. (2022). *Did the Lockdowns Bring Turkish Students Closer to Their Syrian Peers?* 4th Turkish Social Psychology Congress."
-      - bullet: "Albayrak, S., Aydın, B., Yalcin, F. T., Balık, M., Urgen, B. A., & Veldhuizen, M. (2021). *Neural response to flavor measured during a sip-and-swallow protocol with EEG*. European Chemoreception Research Organization Conference XXXI."
-      - bullet: "Loustau, T., & Yalcin, F. T. (2021). *We Are All the Same, But Different: Comparing Approaches for Reducing Parochial Empathy for Political Outgroups*. Center for the Science of Moral Understanding Summer Program Symposium (Virtual)."
-      - bullet: "Rezaki, A. D., Tunca, M. B., Nizamoglu, H., Tuglacı, E., Ture, S., Yalcin, F. T., & Urgen, B. A. (2021). *Bottom-up perception of biological motion is influenced by perceptual load and eccentricity*. 43rd European Conference on Visual Perception."
-      - bullet: "Tunca, M. B., Nizamoglu, H., Rezaki, A. D., Tuglacı, E., Ture, S., Yalcin, F. T., & Urgen, B. A. (2021). *Visual Processing of Biological Motion in the Periphery under Attentional Load*. Proceedings of the Annual Meeting of the Cognitive Science Society, 43(43)."
+      - bullet: "Yalcin, F. T., & Cameron, C. D. (2026). *Is Psychology Growing Too Big, Too Fast? The Pace of Publication in Psychology* [Poster]. Association for Psychological Science Annual Convention, Barcelona, Spain."
+      - bullet: "Yalcin, F. T., & Cameron, C. D. (2026). *Is Psychology Growing Too Big, Too Fast? The Pace of Publication in Psychology* [Blitz talk]. Society for the Improvement of Psychological Science (Virtual)."
+      - bullet: "Yalcin, F. T., & Cameron, C. D. (2026). *Does outrage close or open minds? Moral outrage and information-seeking* [Poster]. Society for Personality and Social Psychology Annual Convention, Chicago, IL."
+      - bullet: "Yalcin, F. T., & Cameron, C. D. (2026). *Do subjective harm perceptions align with the dyadic model?* [Poster]. Society for Personality and Social Psychology Moral Psychology Preconference, Chicago, IL."
+      - bullet: "Yalcin, F. T., & Bagci, S. C. (2023). *Is Empathy Biased or Does It Prevent Bias?* [Poster]. International Convention of Psychological Science, Brussels, Belgium."
+      - bullet: "Yalcin, F. T., Yilmaz, A. D., Turnuklu, A., Vezzali, L., Tercan, M., & Bagci, S. C. (2022). *Did the Lockdowns Bring Turkish Students Closer to Their Syrian Peers?* [Poster]. 4th Turkish Social Psychology Congress."
+      - bullet: "Albayrak, S., Aydın, B., Yalcin, F. T., Balık, M., Urgen, B. A., & Veldhuizen, M. (2021). *Neural response to flavor measured during a sip-and-swallow protocol with EEG* [Poster]. European Chemoreception Research Organization Conference XXXI."
+      - bullet: "Loustau, T., & Yalcin, F. T. (2021). *We Are All the Same, But Different: Comparing Approaches for Reducing Parochial Empathy for Political Outgroups* [Poster]. Center for the Science of Moral Understanding Summer Program Symposium (Virtual)."
+      - bullet: "Rezaki, A. D., Tunca, M. B., Nizamoglu, H., Tuglacı, E., Ture, S., Yalcin, F. T., & Urgen, B. A. (2021). *Bottom-up perception of biological motion is influenced by perceptual load and eccentricity* [Poster]. 43rd European Conference on Visual Perception."
+      - bullet: "Tunca, M. B., Nizamoglu, H., Rezaki, A. D., Tuglacı, E., Ture, S., Yalcin, F. T., & Urgen, B. A. (2021). *Visual Processing of Biological Motion in the Periphery under Attentional Load* [Abstract]. Proceedings of the Annual Meeting of the Cognitive Science Society, 43(43)."
     Awards:
+      - title: Research in Democracy Support Grant
+        date: 2026-04-01
+        summary: "$3,750 for \"Contextualizing the Cross-party Empathy Gap\" (Co-Investigator, with Jolie A. Kretzschmar and C. Daryl Cameron)."
+      - title: EMBER Grant
+        date: 2026-04-01
+        summary: "$850 for \"Do Subjective Harm Perceptions Align with the Dyadic Model?\""
       - title: C-SoDA Accelerator Award
         date: 2025-12-01
         awarder: Center for Social Data Analytics, Penn State
-        summary: "$1,500 for \"On the invariance of artificial morality: Using machine learning to map the AI moral domain\" (Co-Investigator, with Joshua D. Wenger and Zoe A. Baker)."
+        summary: "$1,500 for \"On the invariance of artificial morality: Using machine learning to map the AI moral domain\" (Co-Investigator, with Joshua D. Wenger and Zoe A. Baker); work presented at APS 2026 in Barcelona."
       - title: Consortium on Moral Decision Making Seed Grant
         date: 2025-04-01
         awarder: Consortium on Moral Decision Making, Penn State
