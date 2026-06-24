@@ -9,4 +9,4 @@ importance: 1
 
 When researchers collect data using Likert-type scales and then translate those numerical results into verbal conclusions, they routinely discard the semantic content of the scale anchors that gave the numbers meaning in the first place. This project develops a systematic account of this problem, and argues that it undermines the validity of a wide range of published claims in psychology.
 
-[Who falls for fake news? Apparently no one](https://web.archive.org/web/20220220221249/https://www.culturalcognition.net/blog/2018/10/25/who-falls-for-fake-news-apparently-no-one.html)
+A blog post by Dan Kahan inspired this project: [Who falls for fake news? Apparently no one](https://web.archive.org/web/20220220221249/https://www.culturalcognition.net/blog/2018/10/25/who-falls-for-fake-news-apparently-no-one.html)
