@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anchor Neglect
-description: How researchers discard semantic information from scale anchors when drawing verbal conclusions from Likert-scale data.
+description: How researchers discard vital semantic information from scale anchors when drawing verbal conclusions from Likert-scale data.
 category: metascience
 importance: 1
 # github: f4rvk/anchor-neglect
