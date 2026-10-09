@@ -210,9 +210,11 @@ html[data-theme-setting="light"] {
 /* ---- Custom layout tweaks ---- */
 @media (min-width: 576px) {
   .post .profile {
-    width: 38%;
+    width: 25%;
   }
-  
+}
+
+/* Site font */
 html,
 html body,
 html body h1, html body h2, html body h3,
@@ -220,5 +222,4 @@ html body h4, html body h5, html body h6,
 html body .navbar, html body .navbar-brand, html body .nav-link,
 html body .profile .more-info {
   font-family: "Courier Prime", "Courier New", Courier, monospace;
-}
 }
