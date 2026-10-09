@@ -247,3 +247,19 @@ html body .projects .card .card-title {
   overflow-wrap: break-word;
   hyphens: auto;
 }
+
+/* Minimal boxes: thin black line, no shadows */
+html body .card {
+  box-shadow: none;
+  border: 1px solid #000;
+  border-radius: 0;
+}
+
+html body .hoverable:hover {
+  box-shadow: none;
+  transform: none;
+}
+
+html body .z-depth-1 {
+  box-shadow: none;
+}
