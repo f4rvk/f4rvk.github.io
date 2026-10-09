@@ -240,3 +240,10 @@ html body .post .social .contact-icons {
     margin-bottom: 0.25rem;
   }
 }
+
+/* Smaller project card titles */
+html body .projects .card .card-title {
+  font-size: 1.25rem;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
