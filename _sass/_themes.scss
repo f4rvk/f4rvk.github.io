@@ -223,3 +223,20 @@ html body .navbar, html body .navbar-brand, html body .nav-link,
 html body .profile .more-info {
   font-family: "Courier Prime", "Courier New", Courier, monospace;
 }
+
+/* Smaller social icons on the about page */
+html body .post .social .contact-icons {
+  font-size: 2rem;
+
+  a img {
+    width: 1.6rem;
+    height: 1.6rem;
+    margin-bottom: 0.5rem;
+  }
+
+  a svg {
+    width: 1.75rem;
+    height: 2rem;
+    margin-bottom: 0.25rem;
+  }
+}
